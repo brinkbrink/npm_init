@@ -1,0 +1,19 @@
+{
+  "name": "npm_init",
+  "version": "1.0.0",
+  "description": "npm init for AD 320",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brinkbrink/npm_init.git"
+  },
+  "author": "Emily Brink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brinkbrink/npm_init/issues"
+  },
+  "homepage": "https://github.com/brinkbrink/npm_init#readme"
+}
